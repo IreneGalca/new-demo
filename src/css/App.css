@@ -1,0 +1,17 @@
+﻿body
+{
+}
+
+td{
+    padding-top: 100px;
+}
+
+.btn_style {
+    background-color: #2453ff;
+    font-size: 16px;
+}
+
+.desc_box {
+    border-radius: 40px;
+    resize: none;
+}
